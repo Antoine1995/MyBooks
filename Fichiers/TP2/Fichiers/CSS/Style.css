@@ -1,0 +1,58 @@
+body
+{
+	background-color: rgb(164, 187, 221);
+}
+
+#al, h1
+{
+	text-align: center;
+}
+
+#al
+{
+	text-align: center;
+	
+}
+
+
+#index
+{
+	list-style-type: none;
+	text-decoration: none;
+	display: flex ;
+	flex-direction: row;
+	justify-content: center;
+}
+
+#nopoint
+{
+	list-style-type: none;
+}
+
+#index a
+{
+	text-decoration: none;
+	color: black;
+	padding: 20px;
+	font-size: xx-large;
+}
+
+#index a:hover
+{
+	color: rgb(52, 90, 180);
+	text-decoration: underline;
+}
+	
+
+#Bord
+{
+	text-align: center;
+    border: 3px black double;
+}
+
+.active 
+{
+	color: rgb(52, 90, 180) !important;
+	text-decoration: underline !important;
+}
+

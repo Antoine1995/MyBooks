@@ -1,0 +1,71 @@
+body
+{
+	background-color: rgb(164, 187, 221);
+}
+
+#al, h1
+{
+	text-align: center;
+}
+
+#al
+{
+	text-align: center;
+	
+}
+
+
+#index
+{
+	list-style-type: none;
+	text-decoration: none;
+	display: flex ;
+	flex-direction: row;
+	justify-content: center;
+	background-color: rgb(1, 80, 175);
+	border: 3px black double;
+	border-color: black;
+	padding: 17px 0 17px 0;
+}
+
+#nopoint
+{
+	list-style-type: none;
+}
+
+#index a
+{
+	text-decoration: none;
+	color: black;
+	padding: 20px;
+	font-size: xx-large;
+}
+
+#index a:hover
+{
+	
+	text-decoration: underline;
+	background-color: black;
+	color: rgb(1, 80, 175);
+}
+	
+
+#Bord
+{
+	text-align: center;
+    border: 3px black double;
+}
+
+#Bord2
+{
+	text-align: center;
+    border: 3px black double;
+}
+
+.active 
+{
+	text-decoration: underline !important;
+	background-color: black !important;
+	color: rgb(1, 80, 175) !important;
+}
+
